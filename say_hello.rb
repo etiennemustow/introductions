@@ -1,1 +1,1 @@
-puts Hello Aga\!
+anything
